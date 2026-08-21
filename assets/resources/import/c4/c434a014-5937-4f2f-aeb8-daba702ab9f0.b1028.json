@@ -1,1 +1,0 @@
-[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"config",{"_comment":"전역 상수. 코드에 하드코딩하지 말고 여기서만 수정할 것.","dataVersion":1,"save":{"autoSaveIntervalSec":5,"minSaveGapSec":1,"maxOfflineHours":12},"economy":{"defaultConversionRate":10,"startingWallet":{"gold":0,"gem":0}},"building":{"autoLevelUpPopupInterval":10,"minProductionIntervalSec":0.2}}]],0,0,[],[],[]]
